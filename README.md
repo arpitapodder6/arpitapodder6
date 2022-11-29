@@ -22,7 +22,7 @@
 ---
 
 ### :woman_technologist: About Me : 
-  I am a Computer Science & engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+  I am a Computer Science undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
   
   ---
 
