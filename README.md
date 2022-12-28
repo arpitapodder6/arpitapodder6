@@ -19,7 +19,14 @@
 
 ### :woman_technologist: About Me : 
   I am a Computer Science undergrad <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-  I am currently learning React.
+  
+- 🔭 I’m currently working on **something cool....**
+
+- 🌱 I’m currently learning **react**
+
+- 👯 I’m looking to collaborate on **web dev projects**
+
+- 💬 Ask me about **DSA**
   ---
 
 ### :hammer_and_wrench: Languages and Tools :
