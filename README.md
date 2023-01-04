@@ -3,9 +3,8 @@
 
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600" height="300"/>
-</div>
+
+
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/arpita-podder-1a0b76218/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
