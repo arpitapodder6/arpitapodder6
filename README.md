@@ -21,7 +21,7 @@
   
 - 🔭 I’m currently working on **something cool....**
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **react & javascript**
 
 - 👯 I’m looking to collaborate on **web dev projects**
 
