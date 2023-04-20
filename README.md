@@ -1,5 +1,5 @@
 ![Header](/banner/arpitapodder6-header-image.png)
-<h3 align="center">A front-end developer from India</h3>
+
 
 - 🔭 I’m currently working on **something cool...**
 
