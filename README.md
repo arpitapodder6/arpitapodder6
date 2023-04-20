@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arpita</h1>
+![Header](/banner/arpitapodder6-header-image.png)
 <h3 align="center">A front-end developer from India</h3>
 
 - 🔭 I’m currently working on **something cool...**
